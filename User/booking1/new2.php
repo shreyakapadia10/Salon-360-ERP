@@ -1,0 +1,3 @@
+<link href="https://demo.phpjabbers.com/1549266405_635/core/framework/libs/pj/css/pj.bootstrap.min.css" type="text/css" rel="stylesheet" />
+<link href="https://demo.phpjabbers.com/1549266405_635/index.php?controller=pjFront&action=pjActionLoadCss&theme=5" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="https://demo.phpjabbers.com/1549266405_635/index.php?controller=pjFront&action=pjActionLoad&theme=5&view=calendar&icons=F&cats=F"></script>
